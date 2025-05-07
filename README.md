@@ -40,6 +40,5 @@ Add a Screenshot/GIF showing the sample use of the script (jpeg/png/gif).
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-Adapted from [vegalious](https://github.com/wegfawefgawefg)
 
-[Yurner0](https://github.com/Yurnero-cyber)
+Amori Adefolahan 
